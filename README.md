@@ -18,7 +18,7 @@ Based on Hund's recommendations, see https://hund.tty1.se/2018/09/04/use-a-pixel
 # makes pixelazed image with `convert` command
 brew install imagemagick
 
-# to create shortcut for launching lock.sh
+# to create shortcut for launching ~/.config/lock.sh
 brew install karabiner
 
 # prevents lock screen from turning display off
@@ -33,25 +33,25 @@ lock.sh
 6. attach script to the key `scroll_lock` with karabiner,  
 e.g. modify rules section of `~/.config/karabiner/karabiner.json` with:
 ```json
-                        "manipulators": [
-                            {
-                                "description": "scroll_lock to run ~/.config/lock.sh",
-                                "from": {
-                                    "key_code": "scroll_lock",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-					"shell_command": "/bin/zsh ~/.config/lock.sh"
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-			]
+"manipulators": [
+    {
+        "description": "scroll_lock to run ~/.config/lock.sh",
+        "from": {
+            "key_code": "scroll_lock",
+            "modifiers": {
+                "optional": [
+                    "any"
+                ]
+            }
+        },
+        "to": [
+            {
+		"shell_command": "/bin/zsh ~/.config/lock.sh"
+            }
+        ],
+        "type": "basic"
+    }
+]
 ```
 
 # Configuration
