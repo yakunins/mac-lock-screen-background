@@ -55,8 +55,10 @@ e.g. modify rules section of `~/.config/karabiner/karabiner.json` with:
 
 # Configuration
 1. replace `~/Pictures/Wallpapers/default-wallpaper.png` with your own wallpaper image
+2. setup other than `scroll_lock` key in karabiner to lock your Mac
+3. set your own lock screen picture, by commentin out a two lines inside `generate-lockscreen-image.sh` which generates pixelated screenshot
 
-Cheers!  
+Cheers! 
   
   
 
