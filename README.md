@@ -60,7 +60,12 @@ e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 2. setup other than `scroll_lock` key in karabiner to lock your Mac
 3. set your own lock screen picture, by commentin out a two lines inside `generate-lockscreen-image.sh` which generates pixelated screenshot
 
+# Troubleshooting
+1. set permissions for all the scripts
+2. set permissions for karabiner
+
 Cheers! 
+🍻
   
   
 
