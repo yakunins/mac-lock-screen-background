@@ -1,4 +1,4 @@
-# custom background for lock screen (MacOS Monterey)
+# Custom background for lock screen (MacOS Monterey)
 
 Simple script that:
 - generates pixelized image of screenshot,
@@ -56,5 +56,19 @@ lock.sh
 1. replace `~/Pictures/Wallpapers/default-wallpaper.png` with your own wallpaper image
 
 Cheers!
+
+<sub><sup>
+keywords:
+mac screen capture
+mac lock from terminal
+mac lock screen background
+mac change wallpaper terminal
+mac run command on unlock
+shell script applescript
+karabiner shortcut run shell
+</sup></sub>
+
+
+
 
 
