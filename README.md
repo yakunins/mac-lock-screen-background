@@ -29,9 +29,10 @@ brew install --cask keepingyouawake
 cd ~/.config/
 lock.sh
 ```
-5. it should lock your Mac with pixelized screenshot
+5. it should lock your Mac with pixelized screenshot,  
+and on unlock set back `~/Pictures/Wallpapers/default-wallpaper.png`
 6. attach script to the key `scroll_lock` with karabiner,  
-e.g. modify rules section of `~/.config/karabiner/karabiner.json` with:
+e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 ```json
 "manipulators": [
     {
