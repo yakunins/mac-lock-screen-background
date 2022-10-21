@@ -1,0 +1,1 @@
+osascript just-lock.scpt
