@@ -1,11 +1,12 @@
 # Custom background for lock screen (MacOS Monterey)
 
 Simple script that:
-- generates pixelized image of screenshot (`~/Pictures/Wallpapers/lock-screen.png`),
+- generates pixelized image of current screen,
+- puts `lock-screen.png` into `~/Pictures/Wallpapers/`,
 - sets it as desktop wallpaper,
 - locks Mac,
 - start waiting for unlock, then...
-- ...sets `default-wallpaper.png` back to the desktop.
+- ...sets `default-wallpaper.png` back as a desktop wallpaper.
 
 Based on Hund's recommendations, see https://hund.tty1.se/2018/09/04/use-a-pixelated-version-of-your-desktop-as-your-lockscreen-with-i3lock.html
 
