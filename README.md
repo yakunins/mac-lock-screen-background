@@ -11,7 +11,7 @@ Simple script that:
 Based on Hund's recommendations, see https://hund.tty1.se/2018/09/04/use-a-pixelated-version-of-your-desktop-as-your-lockscreen-with-i3lock.html
 
 # Installation
-1. Put contents into $HOME folder
+1. Put repo's content into `$HOME` folder
 2. Open terminal
 3. Install required tools:
 ```bash
