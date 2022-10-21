@@ -29,7 +29,8 @@ cd ~/.config/
 lock.sh
 ```
 5. it should lock your Mac with pixelized screenshot
-6. attach script to the key with karabiner, modify rules section of `~/.config/karabiner/karabiner.json` with:
+6. attach script to the key `scroll_lock` with karabiner,  
+e.g. modify rules section of `~/.config/karabiner/karabiner.json` with:
 ```json
                         "manipulators": [
                             {
@@ -58,14 +59,14 @@ lock.sh
 Cheers!
 
 <sub><sup>
-keywords:
-mac screen capture
-mac lock from terminal
-mac lock screen background
-mac change wallpaper terminal
-mac run command on unlock
-shell script applescript
-karabiner shortcut run shell
+keywords: 
+mac screen capture 
+mac lock from terminal 
+mac lock screen background 
+mac change wallpaper terminal 
+mac run command on unlock 
+shell script applescript 
+karabiner shortcut run shell 
 </sup></sub>
 
 
