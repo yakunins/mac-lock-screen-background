@@ -66,8 +66,7 @@ e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 
 Cheers! 
 
-<span style="font-size: 40px;"> 🍻 💝 </span>
-  
+<summary><h1 style="display: inline-block;"> 🍻 💝 </h1></summary>
   
 
 
