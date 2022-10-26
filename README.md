@@ -65,20 +65,9 @@ e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 2. set permissions for karabiner
 
 Cheers! 
-# 🍻 💝
+<h1 style="border-bottom: none;"> 🍻 💝 </h1>
   
   
-
-<sub><sup>
-keywords:  
-mac screen capture  
-mac lock from terminal  
-mac lock screen background  
-mac change wallpaper terminal  
-mac run command on unlock  
-shell script applescript  
-karabiner shortcut run shell  
-</sup></sub>
 
 
 
