@@ -66,8 +66,10 @@ e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 
 Cheers! 
 
-<summary><h1> 🍻 💝 </h1></summary>
-<style>H1{color:Blue;}</style>  
+<summary><h1>
+   
+   
+    🍻 💝 </h1></summary>
 
 
 
