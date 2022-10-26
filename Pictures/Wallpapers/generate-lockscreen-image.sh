@@ -4,11 +4,15 @@ lockScreenImg="lock-screen.png"
 cd $dir
 screencapture $lockScreenImg
 
+Scale=$(( 7 ))
+DivPercent=$(( 100 / $Scale ))
+MulPercent=$(( 100 * $Scale ))
+
 # blurred image
-#convert -resize 10% $lockScreenImg $lockScreenImg
-#convert -resize 1000% $lockScreenImg $lockScreenImg
+#convert -resize "$DivPercent%" $lockScreenImg $lockScreenImg
+#convert -resize "$MulPercent%" $lockScreenImg $lockScreenImg
 
 # pixelated image
-convert -scale 5% $lockScreenImg $lockScreenImg
-convert -scale 2000% $lockScreenImg $lockScreenImg
+convert -scale "$DivPercent%" $lockScreenImg $lockScreenImg
+convert -scale "$MulPercent%" $lockScreenImg $lockScreenImg
 
