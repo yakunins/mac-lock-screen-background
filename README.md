@@ -65,9 +65,7 @@ e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 2. set permissions for karabiner
 
 
-```
 
 ❰ █▬█ █☰ █☰ 🆁 ▟▛ ❢ 
-```
 
 
