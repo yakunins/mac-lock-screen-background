@@ -64,15 +64,10 @@ e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 1. set permissions for all the scripts
 2. set permissions for karabiner
 
-Cheers! 
 
-<summary>
-<h1> 🍻 💝 </h1>  
-<h1>  </h1>   
-<h1> 🍻 💝 </h1>  
-</summary>
+```
 
-
-
+❰ █▬█ █☰ █☰ 🆁 ▟▛ ❢ 
+```
 
 
