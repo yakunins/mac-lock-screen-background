@@ -65,7 +65,8 @@ e.g. modify `rules` section of `~/.config/karabiner/karabiner.json` with:
 2. set permissions for karabiner
 
 Cheers! 
-<h1 style="border-bottom: none;"> 🍻 💝 </h1>
+
+<span style="font-size: 40px;"> 🍻 💝 </span>
   
   
 
