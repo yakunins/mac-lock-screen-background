@@ -6,7 +6,7 @@ Simple script that:
 - sets it as desktop wallpaper,
 - locks Mac,
 - start waiting for unlock, then...
-- ...sets `default-wallpaper.png` back as a desktop wallpaper.
+- ...sets back `default-wallpaper.png` as a desktop wallpaper.
 
 Based on [Hund's recommendations](https://hund.tty1.se/2018/09/04/use-a-pixelated-version-of-your-desktop-as-your-lockscreen-with-i3lock.html).
 
