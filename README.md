@@ -15,7 +15,7 @@ Based on Hund's recommendations, see https://hund.tty1.se/2018/09/04/use-a-pixel
 2. Open terminal
 3. Install required tools:
 ```bash
-# makes pixelazed image with `convert` command
+# makes pixelized image with `convert` command
 brew install imagemagick
 
 # to create shortcut for launching ~/.config/lock.sh
