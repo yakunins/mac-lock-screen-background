@@ -8,7 +8,7 @@ Simple script that:
 - start waiting for unlock, then...
 - ...sets `default-wallpaper.png` back as a desktop wallpaper.
 
-Based on Hund's recommendations, see https://hund.tty1.se/2018/09/04/use-a-pixelated-version-of-your-desktop-as-your-lockscreen-with-i3lock.html
+Based on [Hund's recommendations](https://hund.tty1.se/2018/09/04/use-a-pixelated-version-of-your-desktop-as-your-lockscreen-with-i3lock.html).
 
 # Installation
 1. Put repo's content into `$HOME` folder
