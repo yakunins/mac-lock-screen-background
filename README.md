@@ -1,4 +1,4 @@
-# Custom background for lock screen (MacOS Monterey)
+# Custom background for macOS lock screen
 
 Simple script that:
 - generates pixelized image of current screen,
